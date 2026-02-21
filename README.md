@@ -201,6 +201,39 @@ Through this project, developers gain practical experience in:
 
 ---
 
+## ✅ Project Checklist
+
+### Phase 1
+
+* [ ] Design finalized (features, scope, architecture)
+* [ ] UML + Flowchart created
+* [ ] Core classes implemented
+* [ ] Basic operations working (Create, Deposit, Withdraw, Balance)
+* [ ] OOP concepts demonstrated
+* [ ] Console interface functional
+
+---
+
+### Phase 2
+
+* [ ] Login system
+* [ ] Fund transfer
+* [ ] Transaction history
+* [ ] Admin module
+* [ ] Data storage
+* [ ] Exception handling
+* [ ] Testing completed
+
+---
+
+### Final Submission
+
+* [ ] Code cleaned & documented
+* [ ] Diagrams uploaded
+* [ ] System runs without errors
+
+---
+
 ## Conclusion
 
 This project successfully demonstrates how core banking operations can be modeled using Java and OOP principles. It serves as a foundational system illustrating how scalable, secure, and modular financial software can be designed.
