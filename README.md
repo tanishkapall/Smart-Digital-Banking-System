@@ -120,17 +120,27 @@ Ensures secure system access through login verification.
 ## Project Structure
 
 ```
-SmartBankSystem/
+Smart-Digital-Banking-System/
 │
 ├── src/
-│   ├── model/        → Data classes
-│   ├── service/      → Business logic
-│   ├── util/         → Helper utilities
-│   └── main/         → Application entry point
+│   ├── model/
+│   │   ├── Account.java
+│   │   ├── SavingsAccount.java
+│   │   ├── CurrentAccount.java
+│   │   └── Transaction.java
+│   │
+│   ├── service/
+│   │   └── Bank.java
+│   │
+│   └── main/
+│       └── Main.java
 │
-├── docs/             → Diagrams & documentation
+├── docs/
+│   ├── UML-Diagram.png
+│   └── Flowchart.png
+│
 ├── README.md
-└── .gitignore
+├── .gitignore
 ```
 
 ---
