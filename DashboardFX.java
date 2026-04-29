@@ -1,3 +1,4 @@
+//for Displaying all our applicationa
 package com.green.bank.ui;
 
 import javafx.application.Application;
