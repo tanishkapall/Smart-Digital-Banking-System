@@ -1,3 +1,4 @@
+//For withdrawing amount 
 package com.green.bank.ui;
 
 import javafx.application.Application;
