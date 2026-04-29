@@ -246,7 +246,7 @@ Through this project, developers gain practical experience in:
 
 ## Conclusion
 
-This project successfully demonstrates how core banking operations can be modeled using Java and OOP principles. It serves as a foundational system illustrating how scalable, secure, and modular financial software can be designed.
+This project successfully demonstrates how core banking operations can be modeled using Java and OOP principles. It serves as a foundational system illustrating how scalable, secure, and modular financial software can be designed and how to get real-world understanding.
 
 ---
 
